@@ -1,0 +1,21 @@
+SuperStore Sales Analysis – Insight Summary
+📌 Objective
+To analyze historical retail sales data and uncover actionable insights related to regional performance, category profitability, seasonal trends, and customer segmentation using Power BI.
+📊 Key Metrics Tracked
+•	Total Sales
+•	Total ProfitA
+•	Profit-to-Sales Ratio
+•	Average Order Value
+•	Top/Bottom Performing Sub-Categories
+•	Monthly and Yearly Trends
+💡 Key Business Insights
+•	The Central region generated the highest profit despite having lower sales than the South region.
+•	Furniture category, especially Tables and Bookcases, showed negative profit margins despite high sales volumes.
+•	Significant seasonal sales spikes observed in Q4, especially during November–December.
+•	High discounts negatively impacted profit margins in Technology and Furniture categories.
+•	Corporate segment had a better average order value than Consumer or Home Office segments.
+🛠 Suggested Business Actions
+•	Revisit pricing and discount strategy for loss-making categories like Tables and Bookcases.
+•	Increase targeted promotions in Q4 to maximize seasonal trends.
+•	Focus retention campaigns on high-value Corporate segment customers.
+•	Reduce discounts or bundle offers in categories with consistent margin losses.
