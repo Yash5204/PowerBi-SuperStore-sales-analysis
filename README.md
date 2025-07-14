@@ -46,9 +46,10 @@ To analyze historical sales, profit, and customer behavior data across different
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> *(Include 1–2 dashboard screenshots here if possible for better presentation)*
+> <img width="1282" height="721" alt="SuperStore Sales " src="https://github.com/user-attachments/assets/2d51c1ac-1557-4192-8c34-b165189e35df" />
+
 
 ---
 
