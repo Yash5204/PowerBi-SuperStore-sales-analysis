@@ -1,10 +1,73 @@
-# PowerBi-project-SuperStore-sales-analysis
+# 📊 SuperStore Sales Analysis Dashboard
 
-Project Learnings
-• Created an interactive dashboard to track and analyze online sales data
+This project presents a detailed sales performance analysis using the popular **SuperStore** dataset, built in **Power BI** with dynamic visualizations and business insights.
 
-• Used complex parameters to drill down in worksheets and customization using filters and slicers
+---
 
-• Created connections, join new tables, calculations to manipulate data and enable user-driven parameters for visualizations
+## 🚀 Objective
 
-• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+To analyze historical sales, profit, and customer behavior data across different categories and regions to uncover patterns, identify problem areas, and guide decision-making through an interactive dashboard.
+
+---
+
+## 📂 Dataset
+
+- Source: [SuperStore Dataset (Kaggle)]  
+- Records: 9,994 rows  
+- Fields include: Order Date, Region, Segment, Category, Sub-Category, Sales, Profit, Quantity, and Discount
+
+---
+
+## 🧰 Tools & Technologies Used
+
+- **Power BI** – Dashboard creation, visual design, interactivity  
+- **Power Query** – Data cleaning, transformation, table relationships  
+- **DAX (Data Analysis Expressions)** – Calculated fields, time-based metrics  
+- **Excel** – Initial inspection and validation
+
+---
+
+## 📌 Key Features
+
+- 📈 **Sales & Profit Analysis** by Region, Category, Sub-Category  
+- 🔎 **Profitability Heatmap** to identify underperforming segments  
+- 📊 **Dynamic Filters & Slicers** to slice by Region, Segment, Category  
+- 📆 **Time Series Breakdown** of monthly sales & profit trends  
+- ✅ **KPIs at a Glance**: Total Sales, Profit, Discount Rate, Average Order Value
+
+---
+
+## 💡 Business Insights
+
+- The **Central** region generated the highest overall profit, while **South** showed high sales but low profit margins  
+- **Tables** and **Bookcases** in **Furniture** were loss-leading products despite strong sales volume  
+- High discounts in certain categories significantly impacted profit — indicating opportunities for pricing optimization  
+- Seasonal spikes observed in **Q4**, especially during November–December
+
+---
+
+## 📸 Screenshots
+
+> *(Include 1–2 dashboard screenshots here if possible for better presentation)*
+
+---
+
+## 📈 Outcome
+
+This project demonstrates the ability to:
+- Build end-to-end business intelligence dashboards
+- Extract actionable insights from retail data
+- Communicate findings using interactive, visual storytelling
+- Translate raw data into decisions that drive business impact
+
+---
+
+## 🔗 Connect with Me
+
+📫 [LinkedIn – yashdtu](https://www.linkedin.com/in/yashdtu/)  
+📂 [Portfolio Projects](https://github.com/Yash5204)
+
+---
+
+> “A dashboard is only as valuable as the decisions it empowers.”
+
