@@ -48,7 +48,8 @@ To analyze historical sales, profit, and customer behavior data across different
 
 ## 📸 Screenshot
 
-> <img width="1282" height="721" alt="SuperStore Sales " src="https://github.com/user-attachments/assets/2d51c1ac-1557-4192-8c34-b165189e35df" />
+<img width="1281" height="721" alt="image" src="https://github.com/user-attachments/assets/2c0f4568-9d30-49ba-8596-2391be687923" />
+<img width="1446" height="803" alt="image" src="https://github.com/user-attachments/assets/4d806468-6c27-4e67-ab50-7bcd57f04875" />
 
 
 ---
